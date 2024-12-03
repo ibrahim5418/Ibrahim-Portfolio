@@ -1,0 +1,39 @@
+/**
+*
+* form.css
+* @author - Ibrahim
+* @date - 13/02/2024
+**/
+
+.primary-btn {
+    color: #ffffff;
+    background-color: #232323;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-textfield {
+   display: flex;
+   justify-content: center;
+}
+
+.text-mail {
+    font-size: 20px;
+    color: #232323;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-input {
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    width: 380px;
+    color: #CFCFCF;
+}  

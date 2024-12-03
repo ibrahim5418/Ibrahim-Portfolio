@@ -1,0 +1,35 @@
+/**
+*
+* base.css
+* @author - Ibrahim
+* @date - 14/02/2024
+**/
+
+body {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: #767177;
+}
+
+h1 {
+    font-size: 116px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 62px;
+    color: #010101;
+    font-weight: 540;
+}
+
+header {
+    background-color: #ffffff;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+}

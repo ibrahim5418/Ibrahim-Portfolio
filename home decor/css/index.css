@@ -1,0 +1,12 @@
+/**
+*
+* index.css
+* @author - Ibrahim
+* @date - 14/02/2024
+**/
+
+@import "style.css";
+@import "base.css";
+@import "spacing.css";
+@import "form.css";
+@import "align.css";

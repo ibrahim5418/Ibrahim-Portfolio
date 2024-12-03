@@ -1,0 +1,27 @@
+/**
+*
+* base.css
+* @author - Ibrahim
+* @date - 13/02/2024
+**/
+
+body {
+    background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #afb1b1;
+}
+
+h1 {
+    font-size: 93px;
+    color: #232323;
+    text-align: center;
+    font-weight: 560;
+}
+
+h2 {
+    font-size: 48px;
+    color: #232323;
+}
